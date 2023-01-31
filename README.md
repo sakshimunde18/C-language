@@ -1,5 +1,5 @@
 # C-language<br>
-C is a general-purpose programming language <br><br>
+C is a general-purpose programming language <br>
 Features of C Programming Language:-<br>
 1.Procedural Language<br>
 2.Fast and Efficient<br>
